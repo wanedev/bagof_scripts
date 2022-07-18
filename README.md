@@ -5,10 +5,5 @@
 ---
 
 
-Edit scripts in text editor
-> nano questionaire.sh
-
-run scripts
-> bash questionaire.sh
 
 
