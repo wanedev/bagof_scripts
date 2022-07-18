@@ -6,10 +6,9 @@
 
 
 Edit scripts in text editor
->nano questionaire
+> nano questionaire.sh
 
 run scripts
 > bash questionaire.sh
 
-> ./questionaire.sh
 
