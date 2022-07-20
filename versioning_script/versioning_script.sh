@@ -1,8 +1,8 @@
 #!bin\bash
 
-echo "This script was created and developed by:"
+echo "This script is an original concept, created and developed by: Wanescript"
 sleep 4
-cat wanescript2.txt
+cat dascript3.txt
 echo
 
 echo "This script will display the version info about nodejs, npm, and git."
