@@ -1,3 +1,6 @@
+# A personal script:Original
+
+
 echo "Name 1 out of 2 TRI*NC developers"
 read name
 
