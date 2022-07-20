@@ -9,3 +9,8 @@ echo "create a script name"
 read name
 touch $name.sh
 echo "$name.sh has been created"
+
+
+
+#below for cmd to run your file.
+# bash create_folder.sh
