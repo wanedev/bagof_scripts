@@ -6,7 +6,7 @@
 
 
 <h5 align="center">Created and Developed by: Wanescript</h5>
-<h6 align="center">DISCLAIMER: Words and slang are accredited to the regional cultural as well as BRAND: "wanescript". Therefore any use outside of the format of wanescript or any other platforms created by, shall be looked as independent in non representaion of the BRAND and regional cultural.</h6>
+<h6 align="center">DISCLAIMER: Words and slang are accredited to the regional cultural as well as BRAND: "wanescript". Therefore any use outside of the format of wanescript or any other platforms created by, shall be looked as independent in non representaion of the BRAND and regional cultural. RESPECTFULLY: As an Artist and software developer.</h6>
 
 ---
 
