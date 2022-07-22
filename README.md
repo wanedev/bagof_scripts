@@ -10,5 +10,9 @@
 
 ---
 
+software resources:
+
+- [bash/linux cheatsheet](https://linuxconfig.org/bash-scripting-cheat-sheet)
+
 
 
