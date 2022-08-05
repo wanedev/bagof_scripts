@@ -1,6 +1,6 @@
 #!bin\bash
 
-echo "This script is an original concept, created and developed by: Wanescript"
+echo "This was created and developed by: Wanedev"
 sleep 4
 cat dascript3.txt
 echo
